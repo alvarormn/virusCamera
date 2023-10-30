@@ -1,0 +1,14 @@
+# Ignorar archivos de compilación
+*.o
+*.out
+
+# Ignorar archivos de respaldo
+*~
+
+# Ignorar archivos de configuración local
+.env
+config.js
+
+# Ignorar directorios
+node_modules/
+dist/
